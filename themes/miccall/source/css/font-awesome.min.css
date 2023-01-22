@@ -2574,7 +2574,7 @@
 }
 
 .fa-500px:before {
-    content: "f0a0"
+    content: "\f26e"
 }
 
 .fa-amazon:before {
@@ -2587,6 +2587,10 @@
 
 .fa-calendar-minus-o:before {
     content: "\f272"
+}
+
+.fa-onedrive:before {
+    content: "\f0a0"
 }
 
 .fa-calendar-times-o:before {
