@@ -5,15 +5,15 @@
 # Site
 title: Lee's Web
 subtitle: ""
-description: ""
+description: "私人网站"
 keywords:
 author: Collin Lee
-language: zh-tw
-timezone: ""
+language: zh-CN
+timezone: "Asia/Shanghai"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://example.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
