@@ -24,7 +24,8 @@ Nav:
     icon:
         github: https://github.com/Debunkerli
         onedrive: https://service-d6hwkzad-1302678538.bj.apigw.tencentcs.com/release/SCFOnedriveIndex-1657712544/
-        
+        onedrivecf: https://lixudongself.eu.org/
+
     # pages:                 #这些应该都是在source目录里，没试过
     #     简历: 
     #        link: "/about/"
