@@ -1,4 +1,3 @@
-```
 ---
 title: LCD1602驱动程序 # 文章标题  
 date: 2023/1/22 15:00:00  # 文章发表时间
@@ -6,7 +5,7 @@ tags:
 - 51单片机
 thumbnail: https://img-blog.csdnimg.cn/e9c9faa4a390482c8c2c009763ac711a.jpeg # 略缩图
 ---
-```
+
 
 首先是驱动的头文件
 
