@@ -1,13 +1,12 @@
-```
+---
 title: 玩转hexo # 文章标题  
 date: 2023/1/22 22:00:00  # 文章发表时间
 tags:
-
 - hexo
 - 美化
 - 博客
   thumbnail: https://lixudongself.eu.org/hexo封面.png # 略缩图
-```
+---
 
 ## 1.添加和删除导航栏的快捷图标
 
