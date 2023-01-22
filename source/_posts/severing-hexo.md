@@ -7,23 +7,23 @@ thumbnail: https://lixudongself.eu.org/hexo封面.png # 略缩图
 
 ## 1.添加和删除导航栏的快捷图标
 
-<img src="C:\Users\li\AppData\Roaming\Typora\typora-user-images\image-20230122190909296.png" alt="image-20230122190909296" style="zoom:100%;" />
+<img src=""..\..\picture\屏幕截图_20230122_190827.png"" alt="屏幕截图_20230122_190827.png" style="zoom:100%;" />
 
 Miccall 主题内涵盖有常用的图标位置在`...\web1\themes\miccall\source\css`目录下`font-awesome.min.css`文件内
 
-![image-20230122191138728](C:\Users\li\AppData\Roaming\Typora\typora-user-images\image-20230122191138728.png)
+![屏幕截图_20230122_191135]("..\..\picture\屏幕截图_20230122_191135.png")
 
 格式如上，仅需要将`onedrive`位置更换为需要的名称，图标在http://fontawesome.io/icons/#brand该网站获取
 
 在搜索到想要的icon之后
 
-<img src="C:\Users\li\AppData\Roaming\Typora\typora-user-images\image-20230122191530014.png" alt="image-20230122191530014" style="zoom:70%;" />
+<img src="..\..\picture\屏幕截图_20230122_191509.png" alt="屏幕截图_20230122_191509.png" style="zoom:70%;" />
 
 将`“f0a0”`填入`content`
 
 接下来来到`...\web1\themes\miccall\_config.yml`
 
-![image-20230122191720461](C:\Users\li\AppData\Roaming\Typora\typora-user-images\image-20230122191720461.png)
+![屏幕截图_20230122_191718]("..\..\picture\屏幕截图_20230122_191718.png")
 
 在已有的元素后添加刚才设定的名称 并按照格式粘贴链接即可
 
