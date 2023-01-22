@@ -5,13 +5,14 @@ tags:
 thumbnail: https://lixudongself.eu.org/hexo封面.png # 略缩图
 ---
 
+
 ## 1.添加和删除导航栏的快捷图标
 
-![](main/img/post（1）.png)
+![](https://lixudongself.eu.org/hexo_image/post%20(1).png)
 
 Miccall 主题内涵盖有常用的图标位置在`...\web1\themes\miccall\source\css`目录下`font-awesome.min.css`文件内
 
-![](/picture/20230122_191135.png)
+![](https://lixudongself.eu.org/hexo_image/post%20(2).png)
 
 
 
@@ -19,13 +20,13 @@ Miccall 主题内涵盖有常用的图标位置在`...\web1\themes\miccall\sourc
 
 在搜索到想要的icon之后
 
-![](/picture/20230122_191509.png)
+![](https://lixudongself.eu.org/hexo_image/post%20(3).png)
 
 将`“f0a0”`填入`content`
 
 接下来来到`...\web1\themes\miccall\_config.yml`
 
-![](/picture/20230122_191718.png)
+![](https://lixudongself.eu.org/hexo_image/post%20(4).png)
 
 在已有的元素后添加刚才设定的名称 并按照格式粘贴链接即可
 
