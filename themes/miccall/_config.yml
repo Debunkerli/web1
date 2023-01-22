@@ -22,21 +22,21 @@ Nav:
     
     #Social
     # for more icons, please see http://fontawesome.io/icons/#brand
-    icon:
-        github: https://github.com/miccall
-        500px: http://500px.com
+    # icon:
+    #     github: https://github.com/miccall
+    #     500px: http://500px.com
         
-    pages:
-        简历: 
-            link: "/about/"
-        团队 :
-            link: "/group/"
-        图库 :
-            link: "/gallery/"
-        标签:
-            link: "/tag/"
-        #自定义标签名
-        #   link：“路径”
+    # pages:                 #这些应该都是在source目录里，没试过
+    #     简历: 
+    #        link: "/about/"
+    #     团队 :
+    #         link: "/group/"
+    #     图库 :
+    #         link: "/gallery/"
+    #     标签:
+    #         link: "/tag/"
+    #     #自定义标签名
+    #     #   link：“路径”
 
 MainFirst:
     name: Collin Lee
