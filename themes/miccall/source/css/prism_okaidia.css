@@ -156,7 +156,7 @@ pre.line-numbers > code {
 
 		.line-numbers-rows > span:before {
 			content: counter(linenumber);
-			color: #999;
+			color: #a6e22e;
 			display: block;
 			padding-right: 0.8em;
 			text-align: right;
