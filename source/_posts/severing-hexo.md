@@ -7,11 +7,11 @@ thumbnail: https://lixudongself.eu.org/hexo封面.png # 略缩图
 
 ## 1.添加和删除导航栏的快捷图标
 
-![](https://github.com/Debunkerli/web1/blob/main/source/_posts/picture/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_20230122_190827.png)
+![](/picture/20230122_190827.png)
 
 Miccall 主题内涵盖有常用的图标位置在`...\web1\themes\miccall\source\css`目录下`font-awesome.min.css`文件内
 
-![](https://github.com/Debunkerli/web1/blob/main/source/_posts/picture/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_20230122_191135.png)
+![](/picture/20230122_191135.png)
 
 
 
@@ -19,13 +19,13 @@ Miccall 主题内涵盖有常用的图标位置在`...\web1\themes\miccall\sourc
 
 在搜索到想要的icon之后
 
-![](https://github.com/Debunkerli/web1/blob/main/source/_posts/picture/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_20230122_191509.png)
+![](/picture/20230122_191509.png)
 
 将`“f0a0”`填入`content`
 
 接下来来到`...\web1\themes\miccall\_config.yml`
 
-![](https://github.com/Debunkerli/web1/blob/main/source/_posts/picture/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_20230122_191718.png)
+![](/picture/20230122_191718.png)
 
 在已有的元素后添加刚才设定的名称 并按照格式粘贴链接即可
 
