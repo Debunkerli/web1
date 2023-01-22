@@ -139,7 +139,7 @@ pre.line-numbers > code {
 	left: -3.8em;
 	width: 3em; /* works for line-numbers below 1000 lines */
 	letter-spacing: -1px;
-	border-right: 1px solid #999;
+	border-right: 1px solid #a6e22e;
 
 	-webkit-user-select: none;
 	-moz-user-select: none;
