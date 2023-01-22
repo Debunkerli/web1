@@ -7,7 +7,7 @@ thumbnail: https://lixudongself.eu.org/hexo封面.png # 略缩图
 
 ## 1.添加和删除导航栏的快捷图标
 
-![](/picture/20230122_190827.png)
+![](main/img/post（1）.png)
 
 Miccall 主题内涵盖有常用的图标位置在`...\web1\themes\miccall\source\css`目录下`font-awesome.min.css`文件内
 
