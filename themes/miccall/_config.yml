@@ -9,13 +9,13 @@ head:
     backgroundpic : "img/bg.png"
 
 Intro:
-    name: MICCALL
+    name: Collin Lee
     slogan: "Whatever is worth doing is worth doing well <br/> I'll think of you every step of the way"
-    HeadButton: MICCALL
+    HeadButton: Collin Lee
 
 Nav:
     Home_name: 主页
-    is_use_categories : true 
+    is_use_categories : false #原来是true我关掉了
     categories_name: 分类
     is_use_archives : false
     archives_name: 归档
@@ -39,8 +39,8 @@ Nav:
         #   link：“路径”
 
 MainFirst:
-    name: Miccall Metro
-    description: Technical  Artist  of  Games   
+    name: Collin Lee
+    description: Someone who will become an Automation Engineer
     pic_url: /images/me.jpg
     goto_ulr: ""
 
