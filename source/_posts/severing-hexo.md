@@ -7,23 +7,25 @@ thumbnail: https://lixudongself.eu.org/hexo封面.png # 略缩图
 
 ## 1.添加和删除导航栏的快捷图标
 
-<img src="picture\屏幕截图_20230122_190827.png" alt="屏幕截图_20230122_190827.png" style="zoom:100%;" />
+<img src="https://github.com/Debunkerli/web1/blob/main/source/_posts/picture/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_20230122_190827.png" alt="屏幕截图_20230122_190827.png" style="zoom:100%;" />
 
 Miccall 主题内涵盖有常用的图标位置在`...\web1\themes\miccall\source\css`目录下`font-awesome.min.css`文件内
 
-![屏幕截图_20230122_191135]("picture\屏幕截图_20230122_191135.png")
+![屏幕截图_20230122_191135]("https://github.com/Debunkerli/web1/blob/main/source/_posts/picture/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_20230122_191135.png")
+
+
 
 格式如上，仅需要将`onedrive`位置更换为需要的名称，图标在http://fontawesome.io/icons/#brand该网站获取
 
 在搜索到想要的icon之后
 
-<img src="picture\屏幕截图_20230122_191509.png" alt="屏幕截图_20230122_191509.png" style="zoom:70%;" />
+<img src="https://github.com/Debunkerli/web1/blob/main/source/_posts/picture/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_20230122_191509.png" alt="屏幕截图_20230122_191509.png" style="zoom:70%;" />
 
 将`“f0a0”`填入`content`
 
 接下来来到`...\web1\themes\miccall\_config.yml`
 
-![屏幕截图_20230122_191718]("picture\屏幕截图_20230122_191718.png")
+![屏幕截图_20230122_191718]("https://github.com/Debunkerli/web1/blob/main/source/_posts/picture/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_20230122_191718.png")
 
 在已有的元素后添加刚才设定的名称 并按照格式粘贴链接即可
 
