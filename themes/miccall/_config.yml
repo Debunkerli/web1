@@ -23,7 +23,7 @@ Nav:
     #Social:      #for more icons, please see http://fontawesome.io/icons/#brand
     icon:
         github: https://github.com/Debunkerli
-        hard-drive: https://service-d6hwkzad-1302678538.bj.apigw.tencentcs.com/release/SCFOnedriveIndex-1657712544/
+        onedrive: https://service-d6hwkzad-1302678538.bj.apigw.tencentcs.com/release/SCFOnedriveIndex-1657712544/
         
     # pages:                 #这些应该都是在source目录里，没试过
     #     简历: 
